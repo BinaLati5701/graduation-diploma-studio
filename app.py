@@ -52,6 +52,6 @@ with col_preview:
 st.markdown("---")
 st.markdown(
     "<p style='text-align: center; color: gray;'>&copy; 2026 Sabina Dovlati. All rights reserved. | "
-    "<a href='https://github.com/'>Source Code on GitHub</a></p>",
+    "<a href='https://github.com/BinaLati5701/graduation-diploma-studio'>Source Code on GitHub</a></p>",
     unsafe_allow_html=True,
 )
