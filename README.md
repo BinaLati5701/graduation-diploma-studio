@@ -5,7 +5,7 @@
 **Live Interactive App:** https://graduation-diploma-studio.streamlit.app  
 **Source Code:** https://github.com/BinaLati5701/graduation-diploma-studio
 
-#### Video Demo: <URL HERE>
+#### Video Demo: https://youtu.be/gcPodlIem-c
 #### Description:
 **Graduation Diploma & Regalia Studio** is an interactive Python application that allows users to customize academic regalia, generate an animated cap-toss celebration GIF, and download a personalized, print-ready diploma PDF. Designed for both non-technical visitors (via a live browser interface) and technical reviewers (via modular, unit-tested Python source code), the project integrates Object-Oriented Programming (OOP), external REST API consumption, programmatic multi-frame image animation, and HTML-to-PDF rendering.
 
